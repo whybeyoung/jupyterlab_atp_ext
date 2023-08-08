@@ -10,6 +10,9 @@ library that is the basis of the JupyterLab application.
 It is the fundamental brick of any visual component in the JupyterLab interface.
 
 ![New Tab with a Custom Widget](preview.png)
+## ATP 定制服务端发起训练插件
+
+![img.png](docs/img.png)
 
 ## A Basic Tab
 
